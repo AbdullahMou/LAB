@@ -1,5 +1,7 @@
-# Im Abdullah Mouazen and am 27 years old
+# Im Abdullah Mouazen and am 27 years old 
+If you looking for more information please check out these links
 
-| https://github.com/AbdullahMou/reading-note/blob/master/read1.MDgithub.com/AbdullahMou/reading-note/blob/master/read1.MD | 
+
+| (https://github.com/AbdullahMou/reading-note/blob/master/read1.MDgithub.com/AbdullahMou/reading-note/blob/master/read1.MD)| 
 |--------------------------------------------------------------------------------------------------------------------------|
-|https://github.com/AbdullahMou/reading-note/blob/master/read2.MD                                                          |
+|[Info2](https://github.com/AbdullahMou/reading-note/blob/master/read2.MD)                                                   |
