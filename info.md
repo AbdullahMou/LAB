@@ -7,4 +7,4 @@
 
 |[Info1](https://github.com/AbdullahMou/reading-note/blob/master/read1.MDgithub.com/AbdullahMou/reading-note/blob/master/read1.MD)| 
 |--------------------------------------------------------------------------------------------------------------------------|
-|[Info2](https://github.com/AbdullahMou/reading-note/blob/master/read2.MD) | on GitHub                                             |
+|[Info2](https://github.com/AbdullahMou/reading-note/blob/master/read2.MD) | on GitHub |
