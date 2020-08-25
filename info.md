@@ -2,6 +2,6 @@
 If you looking for more information please check out these links
 
 
-|[Info1] | (https://github.com/AbdullahMou/reading-note/blob/master/read1.MDgithub.com/AbdullahMou/reading-note/blob/master/read1.MD)| 
+|[Info1](https://github.com/AbdullahMou/reading-note/blob/master/read1.MDgithub.com/AbdullahMou/reading-note/blob/master/read1.MD)| 
 |--------------------------------------------------------------------------------------------------------------------------|
-|[Info2] | (https://github.com/AbdullahMou/reading-note/blob/master/read2.MD)                                                   |
+|[Info2](https://github.com/AbdullahMou/reading-note/blob/master/read2.MD) | on GitHub                                             |
